@@ -1,9 +1,8 @@
-package PresidenteCu.IDs;
+
 import java.util.Objects;
 import java.util.UUID;
-import PresidenteCu.ValueObject;
 
-public abstract class ID implements ValueObject{
+public abstract class ID implements ObjetoValorado{
     private final UUID value;
 
     protected ID(final UUID value){

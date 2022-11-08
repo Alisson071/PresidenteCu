@@ -1,4 +1,4 @@
-package PresidenteCu.IDs;
+package PresidenteCu.ObjetosValorados.ID;
 import java.util.UUID;
 
 public class IDSala extends ID{
