@@ -1,6 +1,6 @@
+
 import java.util.UUID;
 
-import PresidenteCu.IDs.ID;
 
 public class IDCarta extends ID{
     

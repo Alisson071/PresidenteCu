@@ -1,4 +1,4 @@
-package PresidenteCu.ID;
+
 import java.util.UUID;
 
 public class IDJogador extends ID{
